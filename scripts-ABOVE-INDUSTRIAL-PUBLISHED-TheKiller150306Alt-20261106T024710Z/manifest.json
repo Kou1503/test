@@ -1,0 +1,2703 @@
+{
+  "exportVersion": 1,
+  "exportedAt": "2026-11-06T02:47:10.099Z",
+  "client": {
+    "clientId": "b391b648-249d-422b-a3cf-4c042d7eb80c",
+    "username": "TheKiller150306Alt",
+    "userId": 1780351700,
+    "placeId": 124357835578554,
+    "placeName": "ABOVE [🏭INDUSTRIAL & PUBLISHED]",
+    "jobId": "aacd51b2-ffff-4620-b389-6f8585798b6f",
+    "transport": "ws"
+  },
+  "scriptStore": {
+    "hasFinishedMapping": true,
+    "mappedSources": 383,
+    "processedSources": 383,
+    "skippedSources": 0,
+    "sourcesToMap": 383
+  },
+  "scripts": [
+    {
+      "debugId": "0_420913",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/init.luau",
+      "sourceHash": "0264be0505cb61f5ff569bcc5214c915fe77e66de3a07d31e70e8e6d7219a846",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "0_420936",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.AchievementsController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/AchievementsController.luau",
+      "sourceHash": "c51f45fb88c5a94e47cd621ceec86c66b7bff92e0f54490ca2d385b4ec55ab87",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420969",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.AdminFxController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/AdminFxController.luau",
+      "sourceHash": "71b269198fd906c34cc7eae6babf6cbddf07305dadcceb7ae14a25b4f171eea8",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420953",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.Aim",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/Aim.luau",
+      "sourceHash": "8331accef407df0d5999e396aadd6b7cf4d85cb5c23d2c1d61967c91da012952",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420961",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.AmbienceController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/AmbienceController.luau",
+      "sourceHash": "726c145d7d059d0f20e00b8060e1dd5163a7e21b9ed3b4ee03a4b2eed2bdab18",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_420917",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.AnimationController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/AnimationController.luau",
+      "sourceHash": "3f5cbc0465f20f5bf586f88d4034ce841eea270a22bccd35c0a7e2faf82496d2",
+      "updatedAt": 1793931495947
+    },
+    {
+      "debugId": "0_421019",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.AnnouncementController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/AnnouncementController.luau",
+      "sourceHash": "7b8e86ce0a31b417a9ce5ae4c2c822b2d7d7baf73c948554b65d3bbba022c282",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420946",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.AudioController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/AudioController.luau",
+      "sourceHash": "329a1836bfee2f8c6ded187d21613d7c80048e8ad1fe9f869564c2994b2a8c98",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420927",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.BackpackController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/BackpackController.luau",
+      "sourceHash": "01cb5d26ef7c52e5808f5788a64d3e211ba1edb1f84a90b5ee03570cd472803b",
+      "updatedAt": 1793931495950
+    },
+    {
+      "debugId": "0_420977",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.BeeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/BeeController.luau",
+      "sourceHash": "e15eeeb095274453b748a7e018a7ef6b40c4e3bde5010290cefc92b561dd6acf",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420986",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.BoostController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/BoostController.luau",
+      "sourceHash": "b098877a54faf9748219d52e79b9b1ed013f9aa4175bfa611b56520b2f6811ae",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420932",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.BoundaryController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/BoundaryController.luau",
+      "sourceHash": "2fb58f9b4d73cfa3b78cbea92bdc2c1cc064202b053f964720470bff860425de",
+      "updatedAt": 1793931495950
+    },
+    {
+      "debugId": "0_420919",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.BuildController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/BuildController.luau",
+      "sourceHash": "8895c5e36a48189be5f5fac9a8a5c3e0acb1fc2a60214ebe50cc3dae2a310e05",
+      "updatedAt": 1793931495948
+    },
+    {
+      "debugId": "0_421007",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.BuilderLightController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/BuilderLightController.luau",
+      "sourceHash": "66757e95653fcabfbb9502813ce544e28c40406da619fcdf2c088ba51473935f",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420941",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.CameraController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/CameraController.luau",
+      "sourceHash": "89fec76489de593528b54b6b7e0f5401c2ed4241fffbd67a692b0c070f19a06c",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420980",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.CartController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/CartController.luau",
+      "sourceHash": "7be1033c6c86ff13d977b165ce5bc618a5c0e9a99abb914ea2353d5f56e20eca",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420966",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.CelebrationController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/CelebrationController.luau",
+      "sourceHash": "388660733e36d02cd1c23918b650d8178a9c6490716fe42a2b058070fef36005",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420976",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ChatLineController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ChatLineController.luau",
+      "sourceHash": "418e433a2fee936dc690e682f894052b8f49b6ee44df16a43f490524dcbcb846",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420947",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.CollectionController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/CollectionController.luau",
+      "sourceHash": "2ef57cc82b3f61efd4b050dc63f6c40a18026d2a256eb72a6ba66744e2fcb8ee",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420997",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ComposterController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ComposterController.luau",
+      "sourceHash": "f55ae7ab26f7c19142d32a9597d54d40a6cf5eda25fe661d07d6c6ece3d796c1",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_421001",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ControlGlyphs",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ControlGlyphs.luau",
+      "sourceHash": "3a350c652e8894fb535c9099104cac9fdcf8955ae90e9d06c7c5c5ef4397c077",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420920",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.CraftingController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/CraftingController.luau",
+      "sourceHash": "c14aaa9a94f5033f9656ea6a9524ecbf57b6e761923973b319ac6ee3b488bdbc",
+      "updatedAt": 1793931495948
+    },
+    {
+      "debugId": "0_420921",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.CursorController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/CursorController.luau",
+      "sourceHash": "8406819096c001f2243d1013a2f0b5f6dc5ee443294f99cda78210b7c283e7b6",
+      "updatedAt": 1793931495948
+    },
+    {
+      "debugId": "0_420963",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.DevConsoleController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/DevConsoleController.luau",
+      "sourceHash": "53ecfa7ac442a864240b7ba1bfb1c6e75b0dfae41a2a25ebb45737c802005fc2",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_421006",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.DeviceMode",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/DeviceMode.luau",
+      "sourceHash": "850d7d033e1888ca39875246306a636a5c3d563826b70ce46c61c15f88ae7daa",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420935",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.DialogueController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/DialogueController.luau",
+      "sourceHash": "67bd756a746370c9ba327c4c0523390d7cd737242c9867b74c5b1776655b4a48",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_421020",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.EnemyViewController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/EnemyViewController.luau",
+      "sourceHash": "6ed87d0629d403ec0200dbf85b795d917f360d21dc8982233222e12d412010e2",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420944",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.FavoritePromptController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/FavoritePromptController.luau",
+      "sourceHash": "ead11de455d7c6feb6b0661d4223844820fe548e4f165c2e210c79bc7d4feed6",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420934",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.FlightController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/FlightController.luau",
+      "sourceHash": "c6f0ecfc9090769421c0d6efd1db64041aa4434d089799193b216e850b67c43e",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420949",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.FloaterController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/FloaterController.luau",
+      "sourceHash": "394db986a9347cfb6a01438f4a1f093d367873354226ca3ed30a2fca91d30ec8",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_421014",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.FoodFxController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/FoodFxController.luau",
+      "sourceHash": "894c1dfc9e8728e995a1731f0e7c7eea1946b85f3b252aab37ab875f28f036e3",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420992",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.FreecamController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/FreecamController.luau",
+      "sourceHash": "393c0757a8909279b0e995643b34a3769a0a927d09991a6257bf845d31e6886a",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420999",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.FriendPresence",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/FriendPresence.luau",
+      "sourceHash": "4f9c62b8153ccd949b4cf65a40a8e3a3347f4ade3f738c7e25a066c0be1dd5ba",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420939",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.FriendsController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/FriendsController.luau",
+      "sourceHash": "2512320ea4a93da2d907b8d4cd2c899cbbb4957fdd8b737f811f834be9a4d0f1",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_421002",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.GamepadController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/GamepadController.luau",
+      "sourceHash": "88975ad88b7e4fb29975ed7f71750b60b11d85e5c57aa70a5e9a90d5ebd42bca",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420942",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.GatherFxController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/GatherFxController.luau",
+      "sourceHash": "c7922274821daa323f3a703d7b949d93e7b7dcc0a270b0775690f92ec0e9f828",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420962",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.GuestBookController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/GuestBookController.luau",
+      "sourceHash": "ad907de715a191cb7226f038cccde50db8faf132070badcb92472def8e038589",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_421010",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.GuideBeam",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/GuideBeam.luau",
+      "sourceHash": "b0c4c509f34e8ed63bcf1a895fe44dfcc05909a46ac463c922cbfd2efd20e65d",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_421012",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.GuideController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/GuideController.luau",
+      "sourceHash": "662c5c7faa18217dbd9dce838a21106069b77b5d97173f021fc16dd856a965dd",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420982",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.GuiScaleController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/GuiScaleController.luau",
+      "sourceHash": "6ae68da360153784b8d655d465e5f58e8a3037fc78957d56b479cc81b4adbbdb",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420955",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.HintController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/HintController.luau",
+      "sourceHash": "fba6003de4b34a47aa746cb1788162217c807a4f2e64091fce805ea4a14c4eac",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_420922",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.HitFeedbackController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/HitFeedbackController.luau",
+      "sourceHash": "d6d22390755b10df22420af3a6b4a9b77162677a07fea11d1eafbace20fac30f",
+      "updatedAt": 1793931495949
+    },
+    {
+      "debugId": "0_420923",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.HotbarController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/HotbarController.luau",
+      "sourceHash": "61a74ed1a53528935881918ccdd76f9c4a8a69ece1834e09feab06fbeffa4973",
+      "updatedAt": 1793931495949
+    },
+    {
+      "debugId": "0_420924",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.HudController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/HudController.luau",
+      "sourceHash": "81362de569e0c1e6c3d3ba612cae6752ffcfaa56f4a695c486b78301b9fae819",
+      "updatedAt": 1793931495949
+    },
+    {
+      "debugId": "0_420933",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.InputController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/InputController.luau",
+      "sourceHash": "3f8d289b311c8bc7c3b7034b5b83dabcefa1e89652a0d60b0b3a30e2e2d4fcb5",
+      "updatedAt": 1793931495950
+    },
+    {
+      "debugId": "0_420995",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.IslandInviteController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/IslandInviteController.luau",
+      "sourceHash": "241c79a3bfce812329218fccd548f5d01c11bb57545e35b4f1d201364330c6ae",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420974",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.IslandPermissionsController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/IslandPermissionsController.luau",
+      "sourceHash": "815e5ee4802c0fe92bb00c6d8020069207b6f517e133158192441b9aa8706d18",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420959",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.IslandResetController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/IslandResetController.luau",
+      "sourceHash": "97522ba9387762cc4f561140e2a1db31581050ac2c682cf7d005c0d929ec1ac0",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_420960",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.IslandsController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/IslandsController.luau",
+      "sourceHash": "4a4c114b0f2cc0d18dff7a525717ccf86593c289acd15c0663c86d1499cd5545",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_420926",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ItemIcon",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ItemIcon.luau",
+      "sourceHash": "fd95273bb3fa797959dfb7d1a6396b6023d9dfafb6b11fb9e3f142204cc38ddd",
+      "updatedAt": 1793931495949
+    },
+    {
+      "debugId": "0_420973",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ItemTooltip",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ItemTooltip.luau",
+      "sourceHash": "1c5598d2a3f89c4dbc5cf8d44dc6aaa7dd9d84c64132273a7b0172233a7038dc",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420998",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.KeyBinds",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/KeyBinds.luau",
+      "sourceHash": "455d4d6414370e06a76fb437eb8c294a785d114d804869c2baa1ba0e8831a325",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_421015",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.LeaderboardYouController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/LeaderboardYouController.luau",
+      "sourceHash": "d97207d37bce0dd08ed47d48c64c12a35f160ff9aedb1d5655ecf2f0c1ebc6e8",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420993",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.LoadChoiceController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/LoadChoiceController.luau",
+      "sourceHash": "f65f8fc3991ce9261281350ca76e528be057cf63a02b221c0d02f0343e3eabe7",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420971",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.LooseCountController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/LooseCountController.luau",
+      "sourceHash": "b54f8593fb9141a47a804984c7a41f1a44a2315f553cbe2485f7c09af0816948",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420979",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.MachineStatusController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/MachineStatusController.luau",
+      "sourceHash": "a1d698d6ece41de965317d174b3dda1177405ed3c12374ae056803aa0b3c0d78",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420948",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.MenuBarController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/MenuBarController.luau",
+      "sourceHash": "0a4976454389adbd89c017a773ec1b909deb937db0c904155b9d1a3503daadfc",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420928",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.NewBadges",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/NewBadges.luau",
+      "sourceHash": "9f5b6e0ba3fa22c87077caec9b0c4055d3a860f7ffa8079e4d69ff8f503731f3",
+      "updatedAt": 1793931495950
+    },
+    {
+      "debugId": "0_420988",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.NewPlayerView",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/NewPlayerView.luau",
+      "sourceHash": "9762b4d88f1a80d7b9f8478c0b6d1424842915828b6f0920f42ea90d9e5ee71c",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_421018",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.NewsController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/NewsController.luau",
+      "sourceHash": "aeca0512364c236b10aec3190ed2f59284a873846cb4e21685e23f2482bb8b01",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420958",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.NoticeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/NoticeController.luau",
+      "sourceHash": "924f10f70363ef4bb0365fe3e6b06f721f45daceba3e26ccf9e3a17952bf8cdf",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_420951",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ObjectiveController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ObjectiveController.luau",
+      "sourceHash": "f46126c83ee780baa967516cb0d0261cd1ecf93bab3a693c8d31a4d0499cb69d",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_421003",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.PanelTabs",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/PanelTabs.luau",
+      "sourceHash": "84fdbdbf12eb471510adc54dc29ed1d0646b35ab93cdfed58621298caac3ca14",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_421008",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.PortalMoveController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/PortalMoveController.luau",
+      "sourceHash": "3d07dc7f9c58c45f15ae1623f906420b2bcb606c2b5b91d9d2829620f473d094",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420945",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.PortalSkinController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/PortalSkinController.luau",
+      "sourceHash": "88327946729007dcd7a021bfd9a49d1f59c0cd6e830a3b90f16fe319648183d7",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420918",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.PremiumShopController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/PremiumShopController.luau",
+      "sourceHash": "01c9e9c835f893a02a896ce426fc83851db7d74ae74f7a9bf52aab88774f5081",
+      "updatedAt": 1793931495948
+    },
+    {
+      "debugId": "0_421016",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.PressStrokeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/PressStrokeController.luau",
+      "sourceHash": "340f3de3e9b455e5ade27f064459fa9f55a01b0232c7366a5481f2a56dc4bac2",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420965",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.PromptController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/PromptController.luau",
+      "sourceHash": "6a6c72a38ff49f1e90f6b6f416176c45470be0a28b6b7b5c3e012f924c1c2bdb",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420975",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.PumpController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/PumpController.luau",
+      "sourceHash": "b39c01780bf437dba075878dda5a3059638e3524dd28e6577b0802b9057d7137",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420996",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.QuickTeleportController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/QuickTeleportController.luau",
+      "sourceHash": "6c196a1598e809fe2755da9436bc49f291e0c2f6d2d0c36c104ea43d99a91ff3",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420994",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.RestartNoticeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/RestartNoticeController.luau",
+      "sourceHash": "8600765340060dff4667b6c0d0e0bb7aed10344434f8e2d2a72dde2b23d3cd8a",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_421004",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.RumbleController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/RumbleController.luau",
+      "sourceHash": "d5a0e385e6a971c7f0db1b8fc77ed25d9e58bf4f0d84c49ac7776a7a5e008906",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420925",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.SaveViewBannerController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/SaveViewBannerController.luau",
+      "sourceHash": "d5191ece5ff56104ea29e2371128e1345ea6a28b3f5db82c5b51a54f6624ea36",
+      "updatedAt": 1793931495949
+    },
+    {
+      "debugId": "0_420978",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ScreenshotModeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ScreenshotModeController.luau",
+      "sourceHash": "ad862ef43915b1322f6921f4c9306fe597ddabce840816faf2533bcb0532c9d6",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_421017",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ScrollBarController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ScrollBarController.luau",
+      "sourceHash": "811c7d5aae44398536ffe5964d592058fd17622ecc4223a8aeeb270562bb1402",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420970",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ServerEventController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ServerEventController.luau",
+      "sourceHash": "3f6a2cc6d68937f7430260e682904424878826ae3781f4279d6fcce4b16101b1",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420938",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.SettingsController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/SettingsController.luau",
+      "sourceHash": "0b1796e2f7120e2180741cff58f2d699bd3380e6275546a381be93f4369c1f27",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420940",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.SettingsPanelController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/SettingsPanelController.luau",
+      "sourceHash": "2fc26cc4ae414d09211e03452816ac664263dc1944eb7c921d7583aa9a7d9edc",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420987",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ShiftLockController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ShiftLockController.luau",
+      "sourceHash": "9b6e67e755d21ec48b38f456a240dcbd74812ccb711151fdccf3207f979ad6f3",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420985",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ShopController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ShopController.luau",
+      "sourceHash": "c17ff399c8749c13042fe8234d4b403fd83aa0ea7e6de68ea73996234698662c",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_421011",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ShowcaseController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ShowcaseController.luau",
+      "sourceHash": "63bc23769b28e4f2b20027257e6f8b18e0e4694957de16de35ac68945153870b",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_421013",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ShowroomController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ShowroomController.luau",
+      "sourceHash": "2fff2d0fce121ff0bc881164ee4be5fe53eee05ddbe28fbc83d244e578444243",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420956",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.SignController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/SignController.luau",
+      "sourceHash": "d8adeb347227a8c3cead0b24d3d3d280e6aaa7413c32e2f8c82daa3e32ea8b44",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_421009",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.SlimeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/SlimeController.luau",
+      "sourceHash": "6c674460bd4be5d8a28aec95952f9a29d5cbeac02dc33f29026f3a7a159e50db",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420937",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.SpecialDropController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/SpecialDropController.luau",
+      "sourceHash": "b4f5d40b6f41ba0e1937f2e67608675a12e50280f155c5855482a0ff93f4d218",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420964",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.SpinningArtController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/SpinningArtController.luau",
+      "sourceHash": "52ba9bae3ac0e58ea061db5159d24ff89a80f0a2779096e88d63b8bc572950f0",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_420968",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.StorageController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/StorageController.luau",
+      "sourceHash": "b046963c62c232b3e229e27274523a4a2bc32f79736401d0c1b2e5e7992e8b40",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_421005",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.SwimController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/SwimController.luau",
+      "sourceHash": "46e053a2200f040789ccde2b398a862e47710ed39228db4bc66f5bbe8d04c756",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420989",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.TapDebugController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/TapDebugController.luau",
+      "sourceHash": "cc8f150feaeede9f255443826cb12eca85139a1804ec9273ad73f0489a898c40",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420929",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.TargetController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/TargetController.luau",
+      "sourceHash": "1801b5123bd5cc55d4ce2408b031ee44475d5a810325c7c126eb3d177019bbe0",
+      "updatedAt": 1793931495950
+    },
+    {
+      "debugId": "0_420943",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.TextSizeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/TextSizeController.luau",
+      "sourceHash": "51f078f4ee55c384accd915036f78a64034778ad36402e2d0df9331063681711",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420972",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ThemeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ThemeController.luau",
+      "sourceHash": "370b25e4bf4bf570e06bc78deaf4843befb8f96bd4fcc161dc39bc18d8664699",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420930",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.TimeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/TimeController.luau",
+      "sourceHash": "d46e0cf54ec4e60b21e0bebae0ade2fa887e46231ac5d836e7f27fb44cd2d7ca",
+      "updatedAt": 1793931495950
+    },
+    {
+      "debugId": "0_420931",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ToastController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ToastController.luau",
+      "sourceHash": "8bf10b6a3ba52dbfb39b9250d7ed0393f5bf99811e847742a32eeab8e03cd88a",
+      "updatedAt": 1793931495950
+    },
+    {
+      "debugId": "0_420954",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.TouchController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/TouchController.luau",
+      "sourceHash": "21c576b5ccb98056a82259643dc7527e1e5a67ab1948412120c3a87657e6202b",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_420950",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.TravelController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/TravelController.luau",
+      "sourceHash": "542c6d287a26af1d954b9669cf8624e723786441db1616725e364ec43429c2c3",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420981",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.TutorialArrow",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/TutorialArrow.luau",
+      "sourceHash": "9343ab98f5a3e8fc298a409bd84dd377dc9788450cc37b813bd9b0589393d0f8",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420952",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.TutorialController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/TutorialController.luau",
+      "sourceHash": "f06cb62cc431eb6854cbdc78be707e601ec76507bc2fc2c71a8f5aaed870372b",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "0_420984",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.VendingController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/VendingController.luau",
+      "sourceHash": "28757ce9f414993b7ebb9e28869ad455b3047cc3eb24dd4d0d6011b82ac644a0",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420991",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.VersionController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/VersionController.luau",
+      "sourceHash": "55d780646c8fbc5aaeea02a724df4c4d07bec254073330962a92df1f78c73ea7",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420967",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.ViewmodelController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/ViewmodelController.luau",
+      "sourceHash": "329ffc2dea131c9f4cfb031b6508b7fd2d91eb137b1e16d24bcfdbca9d8f820d",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420983",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.WaterZoneController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/WaterZoneController.luau",
+      "sourceHash": "0562079c437c2a7373ca0cc1f5f5d31ccc1c213ce7babe457a185a6d5e039a3f",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_420957",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.WeatherFxController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/WeatherFxController.luau",
+      "sourceHash": "2a4e399bd16a890a028bfe504d2c38bbfdddcd71d070fa37fa37b46d9be4a324",
+      "updatedAt": 1793931494732
+    },
+    {
+      "debugId": "0_420990",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.WelcomeController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/WelcomeController.luau",
+      "sourceHash": "2df793379cc58bfede910cc07e0afef0f8721b1b6e07b8431f8647503a89935c",
+      "updatedAt": 1793931494733
+    },
+    {
+      "debugId": "0_421000",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Controllers.WorldLabelsController",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Controllers/WorldLabelsController.luau",
+      "sourceHash": "9e27465df83366a84f679f4a11d07100a14d297d92ef80615deec5d159bb8d05",
+      "updatedAt": 1793931494774
+    },
+    {
+      "debugId": "0_420915",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.CopyPicker",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/CopyPicker.luau",
+      "sourceHash": "6b6ef951aa4a8e13fb254e6c447cd816be5e0e2f423188666e35125f39ebdcfb",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "0_420914",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.Client.Ui",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/Client/Ui.luau",
+      "sourceHash": "5b098c2413b6389e3be866671e0cbff6e3f5e10f2ed14fc1845f42ec9f6cfe64",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "0_421021",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.RbxCharacterSounds",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/RbxCharacterSounds/init.luau",
+      "sourceHash": "ecdd150afffba230e38bdcbc157c17cd8a4bd1d495dc7e84c9d5e634eab70588",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "0_421022",
+      "path": "Players.TheKiller150306Alt.PlayerScripts.RbxCharacterSounds.AtomicBinding",
+      "file": "Players/TheKiller150306Alt/PlayerScripts/RbxCharacterSounds/AtomicBinding.luau",
+      "sourceHash": "841770b9041bf47f39b74742e8f8c8df6069bf76b58fed69a2010cc8d9df3767",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_12921",
+      "path": "ReplicatedFirst.LoadingScreen",
+      "file": "ReplicatedFirst/LoadingScreen.luau",
+      "sourceHash": "01dc103aa54f67e04e6fd54fc5b7dfffcf42921fe1d94f686480e95e2944700e",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_15612",
+      "path": "ReplicatedStorage.Shared.AssociateRecord",
+      "file": "ReplicatedStorage/Shared/AssociateRecord.luau",
+      "sourceHash": "87cfb56c42f1c036936f7c1c34f564caa633cdcb724b6a6ddae0e3db56cc3ae6",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15591",
+      "path": "ReplicatedStorage.Shared.BuildFlags",
+      "file": "ReplicatedStorage/Shared/BuildFlags.luau",
+      "sourceHash": "b73d88fdfacb3d18a938f74437f8a077630434486b76e0f03496de448c116580",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15607",
+      "path": "ReplicatedStorage.Shared.ChatLines",
+      "file": "ReplicatedStorage/Shared/ChatLines.luau",
+      "sourceHash": "b4f8edd8fd7efc43e22aadff4fe86c6f31104bbb932784088372dbf2819c3772",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15601",
+      "path": "ReplicatedStorage.Shared.CoinAmount",
+      "file": "ReplicatedStorage/Shared/CoinAmount.luau",
+      "sourceHash": "7b1676fd5bdc1d2082dfbbd9d09d4bb638600e415bac59fb65451aa6c5dcc0f2",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15530",
+      "path": "ReplicatedStorage.Shared.Config",
+      "file": "ReplicatedStorage/Shared/Config/init.luau",
+      "sourceHash": "9d164bef1f610c8379b17506090f311c5a4d82ed7194f58bbdce3be7e19e8d58",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15559",
+      "path": "ReplicatedStorage.Shared.Config.AchievementConfig",
+      "file": "ReplicatedStorage/Shared/Config/AchievementConfig.luau",
+      "sourceHash": "9deb5059d372fd4c2aeed51ecd046e4c4a205ac5c6abbbd089761eb83e66a870",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15573",
+      "path": "ReplicatedStorage.Shared.Config.AdminFunConfig",
+      "file": "ReplicatedStorage/Shared/Config/AdminFunConfig.luau",
+      "sourceHash": "6e22189a7ac6bd8537a2d8c7ae4439e8ea7abd3ee1e6577a90dc14c3ddf0bcb2",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15562",
+      "path": "ReplicatedStorage.Shared.Config.AnalyticsConfig",
+      "file": "ReplicatedStorage/Shared/Config/AnalyticsConfig.luau",
+      "sourceHash": "b2b9afd865f7ee5f21040b15c807aad7d497387bead4ec42043b5e29f2d0a3c3",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15531",
+      "path": "ReplicatedStorage.Shared.Config.AnimationConfig",
+      "file": "ReplicatedStorage/Shared/Config/AnimationConfig.luau",
+      "sourceHash": "d47813e6d44d93c1b17a91270d3764ef54f2897937a2bba1fed26ca3aca34ac0",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15551",
+      "path": "ReplicatedStorage.Shared.Config.AppearanceConfig",
+      "file": "ReplicatedStorage/Shared/Config/AppearanceConfig.luau",
+      "sourceHash": "a23e70fb6a088ac489ac45dc5bd47140ed6289d6635c138b8a6d7c1c98425bae",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15579",
+      "path": "ReplicatedStorage.Shared.Config.AssociateConfig",
+      "file": "ReplicatedStorage/Shared/Config/AssociateConfig.luau",
+      "sourceHash": "5702cdd2a50d63c5814f068bbfc873ddee4ff1e65d171294c2594d73c324337d",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15576",
+      "path": "ReplicatedStorage.Shared.Config.BadgeConfig",
+      "file": "ReplicatedStorage/Shared/Config/BadgeConfig.luau",
+      "sourceHash": "07a85aab5a0dab9beb6e4f998dd2596cc476c600ccb4408a5edf044d52b27cf8",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15532",
+      "path": "ReplicatedStorage.Shared.Config.BuildConfig",
+      "file": "ReplicatedStorage/Shared/Config/BuildConfig.luau",
+      "sourceHash": "6df1e4099e6cfc77907ff2e635324c8304f12ae47d8432d3c9635213c744d903",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15552",
+      "path": "ReplicatedStorage.Shared.Config.BushConfig",
+      "file": "ReplicatedStorage/Shared/Config/BushConfig.luau",
+      "sourceHash": "29a1ed97d68bc4e5a57d1c9faf578dcbe7b38e6ce4b1810ad58353d339a4ce51",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15563",
+      "path": "ReplicatedStorage.Shared.Config.CelebrationConfig",
+      "file": "ReplicatedStorage/Shared/Config/CelebrationConfig.luau",
+      "sourceHash": "050276015c13f02f70768289ae84fd69ba9191df6e9a1dd54f56ca1cde8cbc49",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15549",
+      "path": "ReplicatedStorage.Shared.Config.CosmeticConfig",
+      "file": "ReplicatedStorage/Shared/Config/CosmeticConfig.luau",
+      "sourceHash": "5eec00ea826fd877372a63f6388c9ea3c45d53bf08f537da400ab0876feda390",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15550",
+      "path": "ReplicatedStorage.Shared.Config.CropConfig",
+      "file": "ReplicatedStorage/Shared/Config/CropConfig.luau",
+      "sourceHash": "d9030c6f0967059462d932dc5a7297ac8b91117fd6bcf953eae16b94b50e1654",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15577",
+      "path": "ReplicatedStorage.Shared.Config.DescriptionConfig",
+      "file": "ReplicatedStorage/Shared/Config/DescriptionConfig.luau",
+      "sourceHash": "43bcab681bba3f52d6a24efad3e077382a345cd4569fbeaacd6e1d185db6606b",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15534",
+      "path": "ReplicatedStorage.Shared.Config.EnemyConfig",
+      "file": "ReplicatedStorage/Shared/Config/EnemyConfig.luau",
+      "sourceHash": "2b082974c43156eea8706537ab6dd18785c938a0cf648a9cb507b45669ecefed",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15542",
+      "path": "ReplicatedStorage.Shared.Config.EventConfig",
+      "file": "ReplicatedStorage/Shared/Config/EventConfig.luau",
+      "sourceHash": "39ae96c17c79c5abe2bab292ecc9ad7d92e89c16982e4af84d028130beff4ea4",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15535",
+      "path": "ReplicatedStorage.Shared.Config.FactoryConfig",
+      "file": "ReplicatedStorage/Shared/Config/FactoryConfig.luau",
+      "sourceHash": "a03de1632ccd1ba49c16ff3cd507fb0d1e22bcd570305578a05eeec7182f07bd",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15555",
+      "path": "ReplicatedStorage.Shared.Config.FlowerConfig",
+      "file": "ReplicatedStorage/Shared/Config/FlowerConfig.luau",
+      "sourceHash": "419041236494f437a920982fd9bca7fe75b1973c978181190c139a75df10c2dc",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15554",
+      "path": "ReplicatedStorage.Shared.Config.FoodConfig",
+      "file": "ReplicatedStorage/Shared/Config/FoodConfig.luau",
+      "sourceHash": "2e24953eceb7ce783e204d2431b4cb41938b1363d2939c269e568332dc6792cf",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15558",
+      "path": "ReplicatedStorage.Shared.Config.FriendConfig",
+      "file": "ReplicatedStorage/Shared/Config/FriendConfig.luau",
+      "sourceHash": "17eb5ce9e480cf5c1022b3fe06cc09b86ef7f1c01116fe532b0f05787a603cd4",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15570",
+      "path": "ReplicatedStorage.Shared.Config.GuestBookConfig",
+      "file": "ReplicatedStorage/Shared/Config/GuestBookConfig.luau",
+      "sourceHash": "f9665299787abea28daeff7118ba98cb113be535b48938a2f82b8718b52e5372",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15580",
+      "path": "ReplicatedStorage.Shared.Config.GuideConfig",
+      "file": "ReplicatedStorage/Shared/Config/GuideConfig.luau",
+      "sourceHash": "9d42c797467bdc86a6955634d726ad1a69de58e4d050696002d5c3def2d95c82",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15556",
+      "path": "ReplicatedStorage.Shared.Config.HintConfig",
+      "file": "ReplicatedStorage/Shared/Config/HintConfig.luau",
+      "sourceHash": "4fd803ebd8f0b93d3cf818b8e201c1af69f527c39f99839d3f85fe4c4c875934",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15536",
+      "path": "ReplicatedStorage.Shared.Config.HubConfig",
+      "file": "ReplicatedStorage/Shared/Config/HubConfig.luau",
+      "sourceHash": "1c96cad9db31c2d3ae22bb9cacea3b93b8fc5fabf0787bf43c4f71beac1bc3c4",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15537",
+      "path": "ReplicatedStorage.Shared.Config.HubFieldConfig",
+      "file": "ReplicatedStorage/Shared/Config/HubFieldConfig.luau",
+      "sourceHash": "5f3f461d2c8fea66022faa0833c5af9cb6c45f17fbfc1e04c0fe34d4b6dd89cc",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15572",
+      "path": "ReplicatedStorage.Shared.Config.MonetizationConfig",
+      "file": "ReplicatedStorage/Shared/Config/MonetizationConfig.luau",
+      "sourceHash": "7441b02485d8d7530c2e75209737874f2fbe02751d68e327487a54470f4c1f8a",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15583",
+      "path": "ReplicatedStorage.Shared.Config.NewsConfig",
+      "file": "ReplicatedStorage/Shared/Config/NewsConfig.luau",
+      "sourceHash": "140f8b92006688ea541b0efbb685c73f19142178a47bdf5ea38603283e79aabc",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15568",
+      "path": "ReplicatedStorage.Shared.Config.NoticeConfig",
+      "file": "ReplicatedStorage/Shared/Config/NoticeConfig.luau",
+      "sourceHash": "db30cdb0be81e9c3b3df982df138681b4ba8a8382681ae6aba5a5c440ce27b1f",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15565",
+      "path": "ReplicatedStorage.Shared.Config.ObjectiveConfig",
+      "file": "ReplicatedStorage/Shared/Config/ObjectiveConfig.luau",
+      "sourceHash": "ef2dfda5cfd001f1cbc6866bc66a28dba5402c3ba718da66eaf67f5f0ababba5",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15546",
+      "path": "ReplicatedStorage.Shared.Config.PatternConfig",
+      "file": "ReplicatedStorage/Shared/Config/PatternConfig.luau",
+      "sourceHash": "d6b7e8db11e9550c09353c10c9c832d64103328067feb3461047fdc7a5c83ad6",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15538",
+      "path": "ReplicatedStorage.Shared.Config.PermissionConfig",
+      "file": "ReplicatedStorage/Shared/Config/PermissionConfig.luau",
+      "sourceHash": "644356a09bd49f30f582914dffdb59fd8b1d7976c5511fdda8e840d650800c58",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15581",
+      "path": "ReplicatedStorage.Shared.Config.PlaceConfig",
+      "file": "ReplicatedStorage/Shared/Config/PlaceConfig.luau",
+      "sourceHash": "f3ea6564f4871c8427bfdb88f98b2fac3f8f4caa16f0bc6b2532d2619ffc715e",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15539",
+      "path": "ReplicatedStorage.Shared.Config.PlayerConfig",
+      "file": "ReplicatedStorage/Shared/Config/PlayerConfig.luau",
+      "sourceHash": "803fe697db295adc3a1189ba0ccc07df4f65704baa54b125beab8d618a620f0f",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15553",
+      "path": "ReplicatedStorage.Shared.Config.ProgressionConfig",
+      "file": "ReplicatedStorage/Shared/Config/ProgressionConfig.luau",
+      "sourceHash": "44b32e87a32fa634db1b07d340efcf922331ea5e9c52f558001369cd37bfdf31",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15564",
+      "path": "ReplicatedStorage.Shared.Config.PromptConfig",
+      "file": "ReplicatedStorage/Shared/Config/PromptConfig.luau",
+      "sourceHash": "8fb3e1f2d2f31786b44dba21e873285a6b17c25c79d47986e88e32f602c4f8bb",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15540",
+      "path": "ReplicatedStorage.Shared.Config.QualityConfig",
+      "file": "ReplicatedStorage/Shared/Config/QualityConfig.luau",
+      "sourceHash": "5b65f2f054ba26702740816923cbf35e187427e35ab3f797cbcddf22156e6bb1",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15533",
+      "path": "ReplicatedStorage.Shared.Config.RailConfig",
+      "file": "ReplicatedStorage/Shared/Config/RailConfig.luau",
+      "sourceHash": "b83c6eda0cc24c2247525f4e00aad49ebae3c0e953f86f6b03e90d6c77053ec5",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15575",
+      "path": "ReplicatedStorage.Shared.Config.RecipeConfig",
+      "file": "ReplicatedStorage/Shared/Config/RecipeConfig.luau",
+      "sourceHash": "b0a21a40e00e339b52bf527750fd11ebe48f601c77298f707deb728d13e73765",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15541",
+      "path": "ReplicatedStorage.Shared.Config.ReleaseConfig",
+      "file": "ReplicatedStorage/Shared/Config/ReleaseConfig.luau",
+      "sourceHash": "5722da05aca56264d597109b4656bd56aa298d1192229c3a7aa2df065289e6b0",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15561",
+      "path": "ReplicatedStorage.Shared.Config.SettingsConfig",
+      "file": "ReplicatedStorage/Shared/Config/SettingsConfig.luau",
+      "sourceHash": "1ee49dfc3b6ef3efc86ea8c12231378f16cf51eeddac227b467d176a238a42a6",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15557",
+      "path": "ReplicatedStorage.Shared.Config.ShinyConfig",
+      "file": "ReplicatedStorage/Shared/Config/ShinyConfig.luau",
+      "sourceHash": "10b05bda57e9446d9e97df5feed8fe7ffb03dbcd36e3a42113e05750dcffd912",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15574",
+      "path": "ReplicatedStorage.Shared.Config.ShopConfig",
+      "file": "ReplicatedStorage/Shared/Config/ShopConfig.luau",
+      "sourceHash": "d577adc8674dac1be10a17b37bf571a03a60761fcfe52fcc07ad9803c5313f1f",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15569",
+      "path": "ReplicatedStorage.Shared.Config.SoundConfig",
+      "file": "ReplicatedStorage/Shared/Config/SoundConfig.luau",
+      "sourceHash": "3fd31247b2f3f92be02a3dea5fef1ae177a12724b0bb719e3ac7055338dc9588",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15560",
+      "path": "ReplicatedStorage.Shared.Config.SpecialDropConfig",
+      "file": "ReplicatedStorage/Shared/Config/SpecialDropConfig.luau",
+      "sourceHash": "ad6a06bd34ccf792de3a546def50cc7d12110a507e6619df3d6b6b518dda6bea",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15582",
+      "path": "ReplicatedStorage.Shared.Config.SpendBoardConfig",
+      "file": "ReplicatedStorage/Shared/Config/SpendBoardConfig.luau",
+      "sourceHash": "14064b0d8441892f150a5aa897c8b8a2e11ad80661617a4d2a8c8aecaa1cf2d7",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15543",
+      "path": "ReplicatedStorage.Shared.Config.StorageConfig",
+      "file": "ReplicatedStorage/Shared/Config/StorageConfig.luau",
+      "sourceHash": "89db98f70072642c578a178324a71ce3a5cfe95b0cab9ba2b9f57e27f605dd6f",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15544",
+      "path": "ReplicatedStorage.Shared.Config.TimeConfig",
+      "file": "ReplicatedStorage/Shared/Config/TimeConfig.luau",
+      "sourceHash": "8f2099609deb99e11b1b29688f0fadca095c19da4a1caca0ff9cf22acf27fdb5",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15545",
+      "path": "ReplicatedStorage.Shared.Config.ToolConfig",
+      "file": "ReplicatedStorage/Shared/Config/ToolConfig.luau",
+      "sourceHash": "85b80da44bf070754081feea365bffcf6963125b2196c79dcd748aa7ce7df534",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15567",
+      "path": "ReplicatedStorage.Shared.Config.TouchConfig",
+      "file": "ReplicatedStorage/Shared/Config/TouchConfig.luau",
+      "sourceHash": "6b40068f58d55b9a6508a8ac7d9507a87db425db76b1c3f88ac5b55ff5142079",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15566",
+      "path": "ReplicatedStorage.Shared.Config.TutorialConfig",
+      "file": "ReplicatedStorage/Shared/Config/TutorialConfig.luau",
+      "sourceHash": "f454a1a51900e4d0b861589d916614bbe785646e15ca742526bc26c9d202572b",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15571",
+      "path": "ReplicatedStorage.Shared.Config.VendingConfig",
+      "file": "ReplicatedStorage/Shared/Config/VendingConfig.luau",
+      "sourceHash": "daa9efb0a087d1ab46b3a97fdf7333531ca545135bee7be19730d694d6283e18",
+      "updatedAt": 1793931495921
+    },
+    {
+      "debugId": "1_15547",
+      "path": "ReplicatedStorage.Shared.Config.WeaponConfig",
+      "file": "ReplicatedStorage/Shared/Config/WeaponConfig.luau",
+      "sourceHash": "d9c2da791f61824864d3494f1b394f4a09294b91e60ba24e9ad4c460d4d887af",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15578",
+      "path": "ReplicatedStorage.Shared.Config.WearableConfig",
+      "file": "ReplicatedStorage/Shared/Config/WearableConfig.luau",
+      "sourceHash": "874a6ea3298655b62fcb8589fe0b13dac06692204c7b1286e9fa16d42d5ffeda",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15548",
+      "path": "ReplicatedStorage.Shared.Config.WeatherConfig",
+      "file": "ReplicatedStorage/Shared/Config/WeatherConfig.luau",
+      "sourceHash": "d0c4026d7e764ac3b7e3de50c3bbf8af9cf4de317595f5995a6b499fa34703ae",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15608",
+      "path": "ReplicatedStorage.Shared.CoopLedger",
+      "file": "ReplicatedStorage/Shared/CoopLedger.luau",
+      "sourceHash": "7c7a26690b3207fe58a378e757a3d35ab4337d0ecf12345186e39156f3ce9748",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15599",
+      "path": "ReplicatedStorage.Shared.CoopRules",
+      "file": "ReplicatedStorage/Shared/CoopRules.luau",
+      "sourceHash": "a403934f4643172244e656a37fba7f938969744ca88d3717eaa452f8a082d1d0",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15590",
+      "path": "ReplicatedStorage.Shared.DevCommands",
+      "file": "ReplicatedStorage/Shared/DevCommands.luau",
+      "sourceHash": "e2b94c39f82204f09792a4d04b3aa8e9556e9bee704fa9bdef8222ec977a1b84",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15614",
+      "path": "ReplicatedStorage.Shared.DisplayAccepts",
+      "file": "ReplicatedStorage/Shared/DisplayAccepts.luau",
+      "sourceHash": "c2df1391e879cb1f54559c2b7ef7b06977263e2bdcc1899e83e90adc96c819bd",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15584",
+      "path": "ReplicatedStorage.Shared.DisplayNames",
+      "file": "ReplicatedStorage/Shared/DisplayNames.luau",
+      "sourceHash": "3234dacc64777d6267c81722f36fcb31bc7f47cbae114fd8a8024ffbd31b992a",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15596",
+      "path": "ReplicatedStorage.Shared.Format",
+      "file": "ReplicatedStorage/Shared/Format.luau",
+      "sourceHash": "efd29047da445128a6ee77705d0acc23c85882de3d351e118e1f68fff528e087",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15585",
+      "path": "ReplicatedStorage.Shared.Grid",
+      "file": "ReplicatedStorage/Shared/Grid.luau",
+      "sourceHash": "d90fd56c8054aa6ef9fe873e24d88c37c35b9e99f62e224da8f95a732e704ccf",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15593",
+      "path": "ReplicatedStorage.Shared.ItemInstances",
+      "file": "ReplicatedStorage/Shared/ItemInstances.luau",
+      "sourceHash": "d8bbaf3bac4cd2923fe28213776c77c7e577baa04be7ba97a3b16dfb4aaff12f",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15594",
+      "path": "ReplicatedStorage.Shared.ItemKinds",
+      "file": "ReplicatedStorage/Shared/ItemKinds.luau",
+      "sourceHash": "0345bac107e9b5a6b846642980e6ef1396006504797dcfe27c4c1036241dcd93",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15595",
+      "path": "ReplicatedStorage.Shared.ItemQuality",
+      "file": "ReplicatedStorage/Shared/ItemQuality.luau",
+      "sourceHash": "93f65a87b4d428960a1fe2ba8f9623c4c3056cf2ee81449a7ab626b8f59ff8e7",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15600",
+      "path": "ReplicatedStorage.Shared.ItemStats",
+      "file": "ReplicatedStorage/Shared/ItemStats.luau",
+      "sourceHash": "34e4247c3bc566c1ddbf922dbd77b5f8cf60a282c4fe3e78f5a6a0321eb2e316",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15615",
+      "path": "ReplicatedStorage.Shared.NewsFormat",
+      "file": "ReplicatedStorage/Shared/NewsFormat.luau",
+      "sourceHash": "0c131f732a322130620b9b93e4217dc5d8bf223fd892443b1712496cc39200a4",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15616",
+      "path": "ReplicatedStorage.Shared.NewsView",
+      "file": "ReplicatedStorage/Shared/NewsView.luau",
+      "sourceHash": "e229ded876b3dbe054271142830ae06d86a513bf9e80587cc009e05a0995e626",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15586",
+      "path": "ReplicatedStorage.Shared.Palette",
+      "file": "ReplicatedStorage/Shared/Palette.luau",
+      "sourceHash": "73b4d5f0ff0ffd71a123daa6e8bb87ba232183e78a88b60719e6576557fe8465",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15605",
+      "path": "ReplicatedStorage.Shared.Pipes",
+      "file": "ReplicatedStorage/Shared/Pipes.luau",
+      "sourceHash": "1d2a92401d0a071438263e3bdb313795f38b14c8b1c0c49d734ea396c81dc9b3",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15597",
+      "path": "ReplicatedStorage.Shared.PlantLook",
+      "file": "ReplicatedStorage/Shared/PlantLook.luau",
+      "sourceHash": "3f828c6b419cf741b97e40a72e4ddcae649227f5ac5b8344d102f997ec31b7ce",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15613",
+      "path": "ReplicatedStorage.Shared.PortalPlacement",
+      "file": "ReplicatedStorage/Shared/PortalPlacement.luau",
+      "sourceHash": "0aa162b0ec125b721f516ce5c121fd2fe94cb19d1cd5e29d325649da3d364596",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15587",
+      "path": "ReplicatedStorage.Shared.Prefabs",
+      "file": "ReplicatedStorage/Shared/Prefabs.luau",
+      "sourceHash": "2f150bbda47198f59240812d805c84aecef7e53c492a019504c0b43e82f29b2b",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15602",
+      "path": "ReplicatedStorage.Shared.Prompts",
+      "file": "ReplicatedStorage/Shared/Prompts.luau",
+      "sourceHash": "c752288c408b33f7280b35fcb1689fd4161c852140d6638f2d8f9d1e634714df",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15609",
+      "path": "ReplicatedStorage.Shared.Rails",
+      "file": "ReplicatedStorage/Shared/Rails.luau",
+      "sourceHash": "b2cf96853b2adb1c7e4ec9f483173e0bc2b09da4a28df5178778f1f72636b7da",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15588",
+      "path": "ReplicatedStorage.Shared.Remotes",
+      "file": "ReplicatedStorage/Shared/Remotes.luau",
+      "sourceHash": "a270f0e44c9000a49b3aacb7b7ec34e9d20e6bf7dd7c351fc4fcb2676745fb11",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15611",
+      "path": "ReplicatedStorage.Shared.Seats",
+      "file": "ReplicatedStorage/Shared/Seats.luau",
+      "sourceHash": "f81cd405181672fabde06f37792a543b61456757ebf7d7e0b3417e5d1671c030",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15604",
+      "path": "ReplicatedStorage.Shared.ServerEvents",
+      "file": "ReplicatedStorage/Shared/ServerEvents.luau",
+      "sourceHash": "9680f3013156d92e5ccba38ff3bd7b9ea1e054562092dec0964fe8f8096478fb",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15592",
+      "path": "ReplicatedStorage.Shared.SessionLock",
+      "file": "ReplicatedStorage/Shared/SessionLock.luau",
+      "sourceHash": "706a66125183e2196a9fa400306974ad55dbf71908ae5c4447f290cdd391de7d",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15598",
+      "path": "ReplicatedStorage.Shared.SignText",
+      "file": "ReplicatedStorage/Shared/SignText.luau",
+      "sourceHash": "8157c08ab3efd0f5ff7096f7ff4d16eba70585f649917a9c168e2900249ac514",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15610",
+      "path": "ReplicatedStorage.Shared.StackKey",
+      "file": "ReplicatedStorage/Shared/StackKey.luau",
+      "sourceHash": "37aba0f482926eaca7af4f9b9b6f9b5b6183be926aa82cdf82678dd34acdc6ad",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15589",
+      "path": "ReplicatedStorage.Shared.Types",
+      "file": "ReplicatedStorage/Shared/Types.luau",
+      "sourceHash": "23854a446021aa9033083e4ff1874c1b5f20011da5c3fc3b29ef153de5741b91",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15603",
+      "path": "ReplicatedStorage.Shared.Validate",
+      "file": "ReplicatedStorage/Shared/Validate.luau",
+      "sourceHash": "c119cdc6bec51d73e8d6338618d71345428ccea02685f3a685feadfbb2da4a06",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_15606",
+      "path": "ReplicatedStorage.Shared.WaterFlow",
+      "file": "ReplicatedStorage/Shared/WaterFlow.luau",
+      "sourceHash": "a21ad811935ae98413459ab6f891dda1c2cb01096de553a34e8a2f6fe24e89e0",
+      "updatedAt": 1793931495922
+    },
+    {
+      "debugId": "1_20865",
+      "path": "StarterPlayer.PlayerModule",
+      "file": "StarterPlayer/PlayerModule/init.luau",
+      "sourceHash": "9bc34c9b141c577c15cf973217c8e0778b1e2cc84371e5963975d4e86fe68cd8",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20866",
+      "path": "StarterPlayer.PlayerModule.CameraModule",
+      "file": "StarterPlayer/PlayerModule/CameraModule/init.luau",
+      "sourceHash": "f5be60007730f34266091a9ee0b52b9aec3179fac16c23189822ad976c48d29d",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20885",
+      "path": "StarterPlayer.PlayerModule.CameraModule.BaseCamera",
+      "file": "StarterPlayer/PlayerModule/CameraModule/BaseCamera.luau",
+      "sourceHash": "2907d2c9ab36ecf2e317158962ca79959a8323ebd59f7ec6dda359af3c4e0ba9",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20875",
+      "path": "StarterPlayer.PlayerModule.CameraModule.BaseOcclusion",
+      "file": "StarterPlayer/PlayerModule/CameraModule/BaseOcclusion.luau",
+      "sourceHash": "c42e94d5765cf29172b65c9009cd38a58f9e14898c58faee58f5173604a10347",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20877",
+      "path": "StarterPlayer.PlayerModule.CameraModule.CameraInput",
+      "file": "StarterPlayer/PlayerModule/CameraModule/CameraInput.luau",
+      "sourceHash": "5564c72e29dc132912e6eb6a4b4fb5632ea481d6d3faebd08081b368153e84e6",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20883",
+      "path": "StarterPlayer.PlayerModule.CameraModule.CameraToggleStateController",
+      "file": "StarterPlayer/PlayerModule/CameraModule/CameraToggleStateController.luau",
+      "sourceHash": "65ebc5a38182d75418221dfc1c7ac40ff1419ff186857aa90d6398930374b924",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20889",
+      "path": "StarterPlayer.PlayerModule.CameraModule.CameraUI",
+      "file": "StarterPlayer/PlayerModule/CameraModule/CameraUI.luau",
+      "sourceHash": "b30de1fbdd1daf9d52212a171d3a68a4ad7558a35e289710eefa63c7987b9cd6",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20882",
+      "path": "StarterPlayer.PlayerModule.CameraModule.CameraUtils",
+      "file": "StarterPlayer/PlayerModule/CameraModule/CameraUtils.luau",
+      "sourceHash": "5117931ed640be3057ed882a9e62f8d0af82e3348ef910fe5f93441fa114ac31",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20887",
+      "path": "StarterPlayer.PlayerModule.CameraModule.ClassicCamera",
+      "file": "StarterPlayer/PlayerModule/CameraModule/ClassicCamera.luau",
+      "sourceHash": "b67f7c077d7edd7d699171fe5617f62544664e9d83f46404adf42e93aa0fc809",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20879",
+      "path": "StarterPlayer.PlayerModule.CameraModule.Invisicam",
+      "file": "StarterPlayer/PlayerModule/CameraModule/Invisicam.luau",
+      "sourceHash": "6f94f28d8873f02f1b17e3b50f041c8c58eb8e0064cf5e7df1794bbccd64f169",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20888",
+      "path": "StarterPlayer.PlayerModule.CameraModule.LegacyCamera",
+      "file": "StarterPlayer/PlayerModule/CameraModule/LegacyCamera.luau",
+      "sourceHash": "833cf91da4b8419bcbcb2a7ff44280d1f8646cbde55318be7b96888fb833b2ff",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20867",
+      "path": "StarterPlayer.PlayerModule.CameraModule.MouseLockController",
+      "file": "StarterPlayer/PlayerModule/CameraModule/MouseLockController.luau",
+      "sourceHash": "626f0f29b7e5da6d78fae287a9298e968e48b95932d9bd88ab17743607d062ed",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20876",
+      "path": "StarterPlayer.PlayerModule.CameraModule.OrbitalCamera",
+      "file": "StarterPlayer/PlayerModule/CameraModule/OrbitalCamera.luau",
+      "sourceHash": "3e13ab15df843cd45710417c448c3e7a1e3f27e566f0a7bed903ffa0348acecc",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20872",
+      "path": "StarterPlayer.PlayerModule.CameraModule.Poppercam",
+      "file": "StarterPlayer/PlayerModule/CameraModule/Poppercam.luau",
+      "sourceHash": "13f925ac104a30ac3486c8b3f636d901d527955e896e8e4fd0fad0ab4729d75b",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20886",
+      "path": "StarterPlayer.PlayerModule.CameraModule.TransparencyController",
+      "file": "StarterPlayer/PlayerModule/CameraModule/TransparencyController.luau",
+      "sourceHash": "7ca9dfbf09c361856ebb34a47e2c799bd010c5b2317e98ce2e90883e97b619bb",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20869",
+      "path": "StarterPlayer.PlayerModule.CameraModule.VehicleCamera",
+      "file": "StarterPlayer/PlayerModule/CameraModule/VehicleCamera/init.luau",
+      "sourceHash": "b5381e6708d1e5030b3f11918496d5e5eb34340b81c570ab3973df3ac7e843b9",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20871",
+      "path": "StarterPlayer.PlayerModule.CameraModule.VehicleCamera.VehicleCameraConfig",
+      "file": "StarterPlayer/PlayerModule/CameraModule/VehicleCamera/VehicleCameraConfig.luau",
+      "sourceHash": "dde8f0045336373dc522834140f8bd0e68941827d79a71355772576b474dfbdf",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20870",
+      "path": "StarterPlayer.PlayerModule.CameraModule.VehicleCamera.VehicleCameraCore",
+      "file": "StarterPlayer/PlayerModule/CameraModule/VehicleCamera/VehicleCameraCore.luau",
+      "sourceHash": "c559800f51495f93cb52f2dec14157fb19a456e65769e7a8577204e1866bc624",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20868",
+      "path": "StarterPlayer.PlayerModule.CameraModule.VRBaseCamera",
+      "file": "StarterPlayer/PlayerModule/CameraModule/VRBaseCamera.luau",
+      "sourceHash": "61200df5c0f4bcbed790d293316a25b3b563f5d656210841992d2a7e186e03e0",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20881",
+      "path": "StarterPlayer.PlayerModule.CameraModule.VRCamera",
+      "file": "StarterPlayer/PlayerModule/CameraModule/VRCamera.luau",
+      "sourceHash": "50f8a8917a16f40eb19f7f75ca41aca3dfda27b45e5a3bdc4028204e31f7e46a",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20880",
+      "path": "StarterPlayer.PlayerModule.CameraModule.VRCameraTeleportDetector",
+      "file": "StarterPlayer/PlayerModule/CameraModule/VRCameraTeleportDetector/init.luau",
+      "sourceHash": "8d2cbabbe9876c041272138e4d91db9f90c948c13d7e5ecec92137f4d211144f",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20884",
+      "path": "StarterPlayer.PlayerModule.CameraModule.VRCameraTeleportDetector.spec",
+      "file": "StarterPlayer/PlayerModule/CameraModule/VRCameraTeleportDetector/spec.luau",
+      "sourceHash": "5482f9e2e91c203f753804a517c030b9e480bdff71286efc156177f6b29a7494",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20878",
+      "path": "StarterPlayer.PlayerModule.CameraModule.VRVehicleCamera",
+      "file": "StarterPlayer/PlayerModule/CameraModule/VRVehicleCamera.luau",
+      "sourceHash": "852b97bff5ce004e521e17506ac4f59c69594e99d91648c60130e14638c79071",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20873",
+      "path": "StarterPlayer.PlayerModule.CameraModule.ZoomController",
+      "file": "StarterPlayer/PlayerModule/CameraModule/ZoomController/init.luau",
+      "sourceHash": "73eb3fd4898e39520b8eabf227c30b248637eae845cb2f4b16644cd2a6528ef0",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20874",
+      "path": "StarterPlayer.PlayerModule.CameraModule.ZoomController.Popper",
+      "file": "StarterPlayer/PlayerModule/CameraModule/ZoomController/Popper.luau",
+      "sourceHash": "06e3c3ed535e9b5592b822c36f6fed951d6f7892f951af672cb95a4f0f52a1ed",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20909",
+      "path": "StarterPlayer.PlayerModule.CommonUtils",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/init.luau",
+      "sourceHash": "c870445ff2f45336539e60a644bd7eed12b21b992595b3a6a04efa4b5dad7993",
+      "updatedAt": 1793931494789
+    },
+    {
+      "debugId": "1_20914",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.CameraWrapper",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/CameraWrapper/init.luau",
+      "sourceHash": "ed1c2e8aacd90993ed90e8d01c45e77022d1b4986dbaac600eab5fe129ee9c66",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20913",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.CameraWrapper.spec",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/CameraWrapper/spec.luau",
+      "sourceHash": "3a5708ed4684fb32ab6f5ef7c1d03f84237776e652758266bad5fdf1dae0ceab",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20910",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.CharacterUtil",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/CharacterUtil.luau",
+      "sourceHash": "cf33f71f10ac4dc988dede4b5f6be228212c0931ad8a8a7b228b526d2670693a",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20918",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.ConnectionUtil",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/ConnectionUtil/init.luau",
+      "sourceHash": "7535cb50e8e4ffdd7479f2a6e19c13f5d906a9121adbf0dd12da572406528211",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20916",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.ConnectionUtil.spec",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/ConnectionUtil/spec.luau",
+      "sourceHash": "2c8a6c4e5ff38ab84e1fbbf9f56b58653dc11833d154984ba49fd6d66dfbdc74",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20917",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.EventBus",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/EventBus.luau",
+      "sourceHash": "39f17dc1ec9d0c6a347935d8a4738f216bb29aea7cdd42efdf07231e6c0ced33",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20915",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.FlagUtil",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/FlagUtil.luau",
+      "sourceHash": "f439d343960d19936c91c4352d6076a1cd4ce43c2c04460df2c1085fdc81f602",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20912",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.PlayerModuleEventBus",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/PlayerModuleEventBus.luau",
+      "sourceHash": "7940c858f9cb41e666eb6bc3b4422b11178a912452f18bb584241b40b3310daa",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20911",
+      "path": "StarterPlayer.PlayerModule.CommonUtils.VRFirstPersonState",
+      "file": "StarterPlayer/PlayerModule/CommonUtils/VRFirstPersonState.luau",
+      "sourceHash": "4a53039865103a591a54d2cae1cf17d616a779205199462b7767ce49cfe6a201",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20890",
+      "path": "StarterPlayer.PlayerModule.ControlModule",
+      "file": "StarterPlayer/PlayerModule/ControlModule/init.luau",
+      "sourceHash": "ee3baa7150c18dcce30eb2bd44f4f1127342f2f5921fc7254f14ab4739e8cc5c",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20893",
+      "path": "StarterPlayer.PlayerModule.ControlModule.ActionController",
+      "file": "StarterPlayer/PlayerModule/ControlModule/ActionController.luau",
+      "sourceHash": "fe9276b6ccefc860ccd3996dd1c21fde1253c99815c2a84062031fd077daf08e",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20891",
+      "path": "StarterPlayer.PlayerModule.ControlModule.AvatarAbilitiesInterface",
+      "file": "StarterPlayer/PlayerModule/ControlModule/AvatarAbilitiesInterface.luau",
+      "sourceHash": "af4e319dde77a17d91e237c35929cdafabda215908776aa290bb4465a8a905d4",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20899",
+      "path": "StarterPlayer.PlayerModule.ControlModule.ClassicThumbstick",
+      "file": "StarterPlayer/PlayerModule/ControlModule/ClassicThumbstick.luau",
+      "sourceHash": "390fe73aeb43326681dae28914f1fe6cc24e78f064b71d35d41e1fd948a39766",
+      "updatedAt": 1793931494776
+    },
+    {
+      "debugId": "1_20898",
+      "path": "StarterPlayer.PlayerModule.ControlModule.ClickToMoveController",
+      "file": "StarterPlayer/PlayerModule/ControlModule/ClickToMoveController.luau",
+      "sourceHash": "2d7e3ca3a95cae24f28879bddc9cc5d24724610ded414350e1cd6fa7037bac4e",
+      "updatedAt": 1793931494776
+    },
+    {
+      "debugId": "1_20901",
+      "path": "StarterPlayer.PlayerModule.ControlModule.ClickToMoveDisplay",
+      "file": "StarterPlayer/PlayerModule/ControlModule/ClickToMoveDisplay.luau",
+      "sourceHash": "88bb6c6e52e6b69b8d15bc1d3e44b2d756fbfd92f6f251d3f5343bc2adc1ee09",
+      "updatedAt": 1793931494776
+    },
+    {
+      "debugId": "1_20896",
+      "path": "StarterPlayer.PlayerModule.ControlModule.DynamicThumbstick",
+      "file": "StarterPlayer/PlayerModule/ControlModule/DynamicThumbstick.luau",
+      "sourceHash": "c98ce6d61df015c18a92c97f7e7467f43a8755020121a9a81e31eb1f24b1e948",
+      "updatedAt": 1793931494776
+    },
+    {
+      "debugId": "1_20900",
+      "path": "StarterPlayer.PlayerModule.ControlModule.InputReplication",
+      "file": "StarterPlayer/PlayerModule/ControlModule/InputReplication.luau",
+      "sourceHash": "e3e8210f281da46e500f2f8256b920c11fd241a31fe32ea99af2b9838e39ff86",
+      "updatedAt": 1793931494776
+    },
+    {
+      "debugId": "1_20895",
+      "path": "StarterPlayer.PlayerModule.ControlModule.InputSlots",
+      "file": "StarterPlayer/PlayerModule/ControlModule/InputSlots.luau",
+      "sourceHash": "b4df96bd639345857d72e279aab6b9f27009b02ea606501473463f5adafc849b",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20894",
+      "path": "StarterPlayer.PlayerModule.ControlModule.TouchAbilities",
+      "file": "StarterPlayer/PlayerModule/ControlModule/TouchAbilities.luau",
+      "sourceHash": "3c3b792ee3e830ee2c1c368b347690c682c01c32cc3cd70068db8d2b44397adf",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20892",
+      "path": "StarterPlayer.PlayerModule.ControlModule.TouchJump",
+      "file": "StarterPlayer/PlayerModule/ControlModule/TouchJump.luau",
+      "sourceHash": "e60011345fac35a86425ae381d42378d813f9d07cdcee9dbec74ec3a6121d1f9",
+      "updatedAt": 1793931494775
+    },
+    {
+      "debugId": "1_20897",
+      "path": "StarterPlayer.PlayerModule.ControlModule.VehicleController",
+      "file": "StarterPlayer/PlayerModule/ControlModule/VehicleController.luau",
+      "sourceHash": "700d4a47b3b13dcbedd1f881384d662364138130128ef981b2a243437348795c",
+      "updatedAt": 1793931494776
+    },
+    {
+      "debugId": "1_20920",
+      "path": "StarterPlayer.PlayerModule.PlayerModuleInternal",
+      "file": "StarterPlayer/PlayerModule/PlayerModuleInternal.luau",
+      "sourceHash": "d926f2a906646a916e9003f216c113690f812148389a419a83c307effb88b884",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20908",
+      "path": "StarterPlayer.PlayerModule.PlayerScriptsLoader",
+      "file": "StarterPlayer/PlayerModule/PlayerScriptsLoader.luau",
+      "sourceHash": "304579904a1d3dc4501b7b0eba036b8efe6fd77bae581d6a455325b19e58b34c",
+      "updatedAt": 1793931494789
+    },
+    {
+      "debugId": "1_20902",
+      "path": "StarterPlayer.PlayerModule.ServerAuthority",
+      "file": "StarterPlayer/PlayerModule/ServerAuthority/init.luau",
+      "sourceHash": "25026017650fe69200bf1110be09216246e45eec9a629d13184d25fe545f0d80",
+      "updatedAt": 1793931494789
+    },
+    {
+      "debugId": "1_20903",
+      "path": "StarterPlayer.PlayerModule.ServerAuthority.ServerAuthorityClient",
+      "file": "StarterPlayer/PlayerModule/ServerAuthority/ServerAuthorityClient.luau",
+      "sourceHash": "2dfe39d5c820c47d15777e722c7468db9515108ef6da334df6c1682a3741bcda",
+      "updatedAt": 1793931494789
+    },
+    {
+      "debugId": "1_20905",
+      "path": "StarterPlayer.PlayerModule.Types",
+      "file": "StarterPlayer/PlayerModule/Types/init.luau",
+      "sourceHash": "dd971a77e6eb7a81aeda86690ec38b43cc569ab737a40ab3d7ff8ed78fe4801d",
+      "updatedAt": 1793931494789
+    },
+    {
+      "debugId": "1_20906",
+      "path": "StarterPlayer.PlayerModule.Types.ControlModuleData",
+      "file": "StarterPlayer/PlayerModule/Types/ControlModuleData.luau",
+      "sourceHash": "601e086e330446c19120bcc59731ad70087ed7f607e4650d4bf3534eeb4b313f",
+      "updatedAt": 1793931494789
+    },
+    {
+      "debugId": "1_20907",
+      "path": "StarterPlayer.PlayerModule.Types.PlayerModuleInternalData",
+      "file": "StarterPlayer/PlayerModule/Types/PlayerModuleInternalData.luau",
+      "sourceHash": "b4815c97ed40c54abc07324b116e63fb3d46778881bbd614ff8f8384539871ef",
+      "updatedAt": 1793931494789
+    },
+    {
+      "debugId": "1_12922",
+      "path": "StarterPlayer.StarterPlayerScripts.Client",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/init.luau",
+      "sourceHash": "0264be0505cb61f5ff569bcc5214c915fe77e66de3a07d31e70e8e6d7219a846",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_15445",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.AchievementsController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/AchievementsController.luau",
+      "sourceHash": "c51f45fb88c5a94e47cd621ceec86c66b7bff92e0f54490ca2d385b4ec55ab87",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15478",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.AdminFxController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/AdminFxController.luau",
+      "sourceHash": "71b269198fd906c34cc7eae6babf6cbddf07305dadcceb7ae14a25b4f171eea8",
+      "updatedAt": 1793931495854
+    },
+    {
+      "debugId": "1_15462",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.Aim",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/Aim.luau",
+      "sourceHash": "8331accef407df0d5999e396aadd6b7cf4d85cb5c23d2c1d61967c91da012952",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15470",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.AmbienceController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/AmbienceController.luau",
+      "sourceHash": "726c145d7d059d0f20e00b8060e1dd5163a7e21b9ed3b4ee03a4b2eed2bdab18",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15426",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.AnimationController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/AnimationController.luau",
+      "sourceHash": "2afbd4e2419ad79b82a2aa5064aec647b44a63e86ec568cf38393510b07211c3",
+      "updatedAt": 1793931495850
+    },
+    {
+      "debugId": "1_15528",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.AnnouncementController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/AnnouncementController.luau",
+      "sourceHash": "7b8e86ce0a31b417a9ce5ae4c2c822b2d7d7baf73c948554b65d3bbba022c282",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15455",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.AudioController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/AudioController.luau",
+      "sourceHash": "329a1836bfee2f8c6ded187d21613d7c80048e8ad1fe9f869564c2994b2a8c98",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15436",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.BackpackController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/BackpackController.luau",
+      "sourceHash": "f2cccaf22e410a6ec4283853571aca4154ded5644c4011f672f5be03c2e678b2",
+      "updatedAt": 1793931495851
+    },
+    {
+      "debugId": "1_15486",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.BeeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/BeeController.luau",
+      "sourceHash": "e15eeeb095274453b748a7e018a7ef6b40c4e3bde5010290cefc92b561dd6acf",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15495",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.BoostController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/BoostController.luau",
+      "sourceHash": "b098877a54faf9748219d52e79b9b1ed013f9aa4175bfa611b56520b2f6811ae",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15441",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.BoundaryController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/BoundaryController.luau",
+      "sourceHash": "17c1125a679dc0fcd32ed0278c06a464c835cc39b8bf8b0d7f8aa2a2dac724f5",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15428",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.BuildController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/BuildController.luau",
+      "sourceHash": "311403f2e4bb6a7915228120f29b84ac0e248b612106777fbc8b99d90f056d0b",
+      "updatedAt": 1793931495947
+    },
+    {
+      "debugId": "1_15516",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.BuilderLightController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/BuilderLightController.luau",
+      "sourceHash": "66757e95653fcabfbb9502813ce544e28c40406da619fcdf2c088ba51473935f",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15450",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.CameraController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/CameraController.luau",
+      "sourceHash": "89fec76489de593528b54b6b7e0f5401c2ed4241fffbd67a692b0c070f19a06c",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15489",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.CartController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/CartController.luau",
+      "sourceHash": "7be1033c6c86ff13d977b165ce5bc618a5c0e9a99abb914ea2353d5f56e20eca",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15475",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.CelebrationController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/CelebrationController.luau",
+      "sourceHash": "388660733e36d02cd1c23918b650d8178a9c6490716fe42a2b058070fef36005",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15485",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ChatLineController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ChatLineController.luau",
+      "sourceHash": "418e433a2fee936dc690e682f894052b8f49b6ee44df16a43f490524dcbcb846",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15456",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.CollectionController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/CollectionController.luau",
+      "sourceHash": "2ef57cc82b3f61efd4b050dc63f6c40a18026d2a256eb72a6ba66744e2fcb8ee",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15506",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ComposterController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ComposterController.luau",
+      "sourceHash": "f55ae7ab26f7c19142d32a9597d54d40a6cf5eda25fe661d07d6c6ece3d796c1",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15510",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ControlGlyphs",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ControlGlyphs.luau",
+      "sourceHash": "3a350c652e8894fb535c9099104cac9fdcf8955ae90e9d06c7c5c5ef4397c077",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15429",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.CraftingController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/CraftingController.luau",
+      "sourceHash": "8b99b1a680112e9f0f93f9550f620f2b886e3d3c1a97a448a75e059e0c96be13",
+      "updatedAt": 1793931495947
+    },
+    {
+      "debugId": "1_15430",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.CursorController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/CursorController.luau",
+      "sourceHash": "95280e89fec592b7ea2185121abd07dfa21570f47df82dab5d1604cc442e34a4",
+      "updatedAt": 1793931495947
+    },
+    {
+      "debugId": "1_15472",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.DevConsoleController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/DevConsoleController.luau",
+      "sourceHash": "53ecfa7ac442a864240b7ba1bfb1c6e75b0dfae41a2a25ebb45737c802005fc2",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15515",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.DeviceMode",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/DeviceMode.luau",
+      "sourceHash": "850d7d033e1888ca39875246306a636a5c3d563826b70ce46c61c15f88ae7daa",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15444",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.DialogueController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/DialogueController.luau",
+      "sourceHash": "67bd756a746370c9ba327c4c0523390d7cd737242c9867b74c5b1776655b4a48",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15529",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.EnemyViewController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/EnemyViewController.luau",
+      "sourceHash": "6ed87d0629d403ec0200dbf85b795d917f360d21dc8982233222e12d412010e2",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15453",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.FavoritePromptController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/FavoritePromptController.luau",
+      "sourceHash": "ead11de455d7c6feb6b0661d4223844820fe548e4f165c2e210c79bc7d4feed6",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15443",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.FlightController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/FlightController.luau",
+      "sourceHash": "c6f0ecfc9090769421c0d6efd1db64041aa4434d089799193b216e850b67c43e",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15458",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.FloaterController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/FloaterController.luau",
+      "sourceHash": "394db986a9347cfb6a01438f4a1f093d367873354226ca3ed30a2fca91d30ec8",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15523",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.FoodFxController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/FoodFxController.luau",
+      "sourceHash": "894c1dfc9e8728e995a1731f0e7c7eea1946b85f3b252aab37ab875f28f036e3",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15501",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.FreecamController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/FreecamController.luau",
+      "sourceHash": "393c0757a8909279b0e995643b34a3769a0a927d09991a6257bf845d31e6886a",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15508",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.FriendPresence",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/FriendPresence.luau",
+      "sourceHash": "4f9c62b8153ccd949b4cf65a40a8e3a3347f4ade3f738c7e25a066c0be1dd5ba",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15448",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.FriendsController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/FriendsController.luau",
+      "sourceHash": "2512320ea4a93da2d907b8d4cd2c899cbbb4957fdd8b737f811f834be9a4d0f1",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15511",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.GamepadController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/GamepadController.luau",
+      "sourceHash": "88975ad88b7e4fb29975ed7f71750b60b11d85e5c57aa70a5e9a90d5ebd42bca",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15451",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.GatherFxController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/GatherFxController.luau",
+      "sourceHash": "c7922274821daa323f3a703d7b949d93e7b7dcc0a270b0775690f92ec0e9f828",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15471",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.GuestBookController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/GuestBookController.luau",
+      "sourceHash": "ad907de715a191cb7226f038cccde50db8faf132070badcb92472def8e038589",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15519",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.GuideBeam",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/GuideBeam.luau",
+      "sourceHash": "b0c4c509f34e8ed63bcf1a895fe44dfcc05909a46ac463c922cbfd2efd20e65d",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15521",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.GuideController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/GuideController.luau",
+      "sourceHash": "662c5c7faa18217dbd9dce838a21106069b77b5d97173f021fc16dd856a965dd",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15491",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.GuiScaleController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/GuiScaleController.luau",
+      "sourceHash": "6ae68da360153784b8d655d465e5f58e8a3037fc78957d56b479cc81b4adbbdb",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15464",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.HintController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/HintController.luau",
+      "sourceHash": "fba6003de4b34a47aa746cb1788162217c807a4f2e64091fce805ea4a14c4eac",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15431",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.HitFeedbackController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/HitFeedbackController.luau",
+      "sourceHash": "28c4d2d754f0951b1a7c294da0b790ce3d48b724d0fa48e39f015625733b4729",
+      "updatedAt": 1793931495850
+    },
+    {
+      "debugId": "1_15432",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.HotbarController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/HotbarController.luau",
+      "sourceHash": "537a8f715f745352e626e9c63df535d13c6488db34ea6c2905d58354a6067021",
+      "updatedAt": 1793931495851
+    },
+    {
+      "debugId": "1_15433",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.HudController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/HudController.luau",
+      "sourceHash": "cf2e6c272de8f7e17eb17e20233871b9755814f59ac96a3ddf982d8a0ec040b0",
+      "updatedAt": 1793931495851
+    },
+    {
+      "debugId": "1_15442",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.InputController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/InputController.luau",
+      "sourceHash": "d9a21552a6b8b91448dd9cac50a8c1905771e2e067096b65b3726d8463cc9fa1",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15504",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.IslandInviteController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/IslandInviteController.luau",
+      "sourceHash": "241c79a3bfce812329218fccd548f5d01c11bb57545e35b4f1d201364330c6ae",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15483",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.IslandPermissionsController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/IslandPermissionsController.luau",
+      "sourceHash": "815e5ee4802c0fe92bb00c6d8020069207b6f517e133158192441b9aa8706d18",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15468",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.IslandResetController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/IslandResetController.luau",
+      "sourceHash": "97522ba9387762cc4f561140e2a1db31581050ac2c682cf7d005c0d929ec1ac0",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15469",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.IslandsController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/IslandsController.luau",
+      "sourceHash": "4a4c114b0f2cc0d18dff7a525717ccf86593c289acd15c0663c86d1499cd5545",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15435",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ItemIcon",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ItemIcon.luau",
+      "sourceHash": "27b1bac3280745762d657e1689ad7b43e00a483ef67b30d41582f62484efd062",
+      "updatedAt": 1793931495851
+    },
+    {
+      "debugId": "1_15482",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ItemTooltip",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ItemTooltip.luau",
+      "sourceHash": "1c5598d2a3f89c4dbc5cf8d44dc6aaa7dd9d84c64132273a7b0172233a7038dc",
+      "updatedAt": 1793931495854
+    },
+    {
+      "debugId": "1_15507",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.KeyBinds",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/KeyBinds.luau",
+      "sourceHash": "455d4d6414370e06a76fb437eb8c294a785d114d804869c2baa1ba0e8831a325",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15524",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.LeaderboardYouController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/LeaderboardYouController.luau",
+      "sourceHash": "d97207d37bce0dd08ed47d48c64c12a35f160ff9aedb1d5655ecf2f0c1ebc6e8",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15502",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.LoadChoiceController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/LoadChoiceController.luau",
+      "sourceHash": "f65f8fc3991ce9261281350ca76e528be057cf63a02b221c0d02f0343e3eabe7",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15480",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.LooseCountController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/LooseCountController.luau",
+      "sourceHash": "b54f8593fb9141a47a804984c7a41f1a44a2315f553cbe2485f7c09af0816948",
+      "updatedAt": 1793931495854
+    },
+    {
+      "debugId": "1_15488",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.MachineStatusController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/MachineStatusController.luau",
+      "sourceHash": "a1d698d6ece41de965317d174b3dda1177405ed3c12374ae056803aa0b3c0d78",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15457",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.MenuBarController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/MenuBarController.luau",
+      "sourceHash": "0a4976454389adbd89c017a773ec1b909deb937db0c904155b9d1a3503daadfc",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15437",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.NewBadges",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/NewBadges.luau",
+      "sourceHash": "cec75b10fdfb27004903bcf430abb87fca8545c11057f6858537094c61fa47f1",
+      "updatedAt": 1793931495851
+    },
+    {
+      "debugId": "1_15497",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.NewPlayerView",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/NewPlayerView.luau",
+      "sourceHash": "9762b4d88f1a80d7b9f8478c0b6d1424842915828b6f0920f42ea90d9e5ee71c",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15527",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.NewsController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/NewsController.luau",
+      "sourceHash": "aeca0512364c236b10aec3190ed2f59284a873846cb4e21685e23f2482bb8b01",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15467",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.NoticeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/NoticeController.luau",
+      "sourceHash": "924f10f70363ef4bb0365fe3e6b06f721f45daceba3e26ccf9e3a17952bf8cdf",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15460",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ObjectiveController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ObjectiveController.luau",
+      "sourceHash": "f46126c83ee780baa967516cb0d0261cd1ecf93bab3a693c8d31a4d0499cb69d",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15512",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.PanelTabs",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/PanelTabs.luau",
+      "sourceHash": "84fdbdbf12eb471510adc54dc29ed1d0646b35ab93cdfed58621298caac3ca14",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15517",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.PortalMoveController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/PortalMoveController.luau",
+      "sourceHash": "3d07dc7f9c58c45f15ae1623f906420b2bcb606c2b5b91d9d2829620f473d094",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15454",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.PortalSkinController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/PortalSkinController.luau",
+      "sourceHash": "88327946729007dcd7a021bfd9a49d1f59c0cd6e830a3b90f16fe319648183d7",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15427",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.PremiumShopController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/PremiumShopController.luau",
+      "sourceHash": "e10543eb58d072417dcc27a04db644e1e61964949d3066ec254cc4c740d08d9b",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_15525",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.PressStrokeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/PressStrokeController.luau",
+      "sourceHash": "340f3de3e9b455e5ade27f064459fa9f55a01b0232c7366a5481f2a56dc4bac2",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15474",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.PromptController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/PromptController.luau",
+      "sourceHash": "6a6c72a38ff49f1e90f6b6f416176c45470be0a28b6b7b5c3e012f924c1c2bdb",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15484",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.PumpController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/PumpController.luau",
+      "sourceHash": "b39c01780bf437dba075878dda5a3059638e3524dd28e6577b0802b9057d7137",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15505",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.QuickTeleportController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/QuickTeleportController.luau",
+      "sourceHash": "6c196a1598e809fe2755da9436bc49f291e0c2f6d2d0c36c104ea43d99a91ff3",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15503",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.RestartNoticeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/RestartNoticeController.luau",
+      "sourceHash": "8600765340060dff4667b6c0d0e0bb7aed10344434f8e2d2a72dde2b23d3cd8a",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15513",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.RumbleController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/RumbleController.luau",
+      "sourceHash": "d5a0e385e6a971c7f0db1b8fc77ed25d9e58bf4f0d84c49ac7776a7a5e008906",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15434",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.SaveViewBannerController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/SaveViewBannerController.luau",
+      "sourceHash": "3720d0ce9b16af05141bf14d1693d0dca02e326661b3dcf58e25aab6d9925662",
+      "updatedAt": 1793931495851
+    },
+    {
+      "debugId": "1_15487",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ScreenshotModeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ScreenshotModeController.luau",
+      "sourceHash": "ad862ef43915b1322f6921f4c9306fe597ddabce840816faf2533bcb0532c9d6",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15526",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ScrollBarController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ScrollBarController.luau",
+      "sourceHash": "811c7d5aae44398536ffe5964d592058fd17622ecc4223a8aeeb270562bb1402",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15479",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ServerEventController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ServerEventController.luau",
+      "sourceHash": "3f6a2cc6d68937f7430260e682904424878826ae3781f4279d6fcce4b16101b1",
+      "updatedAt": 1793931495854
+    },
+    {
+      "debugId": "1_15447",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.SettingsController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/SettingsController.luau",
+      "sourceHash": "0b1796e2f7120e2180741cff58f2d699bd3380e6275546a381be93f4369c1f27",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15449",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.SettingsPanelController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/SettingsPanelController.luau",
+      "sourceHash": "2fc26cc4ae414d09211e03452816ac664263dc1944eb7c921d7583aa9a7d9edc",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15496",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ShiftLockController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ShiftLockController.luau",
+      "sourceHash": "9b6e67e755d21ec48b38f456a240dcbd74812ccb711151fdccf3207f979ad6f3",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15494",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ShopController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ShopController.luau",
+      "sourceHash": "c17ff399c8749c13042fe8234d4b403fd83aa0ea7e6de68ea73996234698662c",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15520",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ShowcaseController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ShowcaseController.luau",
+      "sourceHash": "63bc23769b28e4f2b20027257e6f8b18e0e4694957de16de35ac68945153870b",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15522",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ShowroomController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ShowroomController.luau",
+      "sourceHash": "2fff2d0fce121ff0bc881164ee4be5fe53eee05ddbe28fbc83d244e578444243",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_15465",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.SignController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/SignController.luau",
+      "sourceHash": "d8adeb347227a8c3cead0b24d3d3d280e6aaa7413c32e2f8c82daa3e32ea8b44",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15518",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.SlimeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/SlimeController.luau",
+      "sourceHash": "6c674460bd4be5d8a28aec95952f9a29d5cbeac02dc33f29026f3a7a159e50db",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15446",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.SpecialDropController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/SpecialDropController.luau",
+      "sourceHash": "b4f5d40b6f41ba0e1937f2e67608675a12e50280f155c5855482a0ff93f4d218",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15473",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.SpinningArtController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/SpinningArtController.luau",
+      "sourceHash": "52ba9bae3ac0e58ea061db5159d24ff89a80f0a2779096e88d63b8bc572950f0",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15477",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.StorageController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/StorageController.luau",
+      "sourceHash": "b046963c62c232b3e229e27274523a4a2bc32f79736401d0c1b2e5e7992e8b40",
+      "updatedAt": 1793931495854
+    },
+    {
+      "debugId": "1_15514",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.SwimController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/SwimController.luau",
+      "sourceHash": "46e053a2200f040789ccde2b398a862e47710ed39228db4bc66f5bbe8d04c756",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15498",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.TapDebugController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/TapDebugController.luau",
+      "sourceHash": "cc8f150feaeede9f255443826cb12eca85139a1804ec9273ad73f0489a898c40",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15438",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.TargetController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/TargetController.luau",
+      "sourceHash": "731b410418e7d3546021fd4cd1272b71990f21e4cfefebafe7839052f93b73e4",
+      "updatedAt": 1793931495851
+    },
+    {
+      "debugId": "1_15452",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.TextSizeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/TextSizeController.luau",
+      "sourceHash": "51f078f4ee55c384accd915036f78a64034778ad36402e2d0df9331063681711",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15481",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ThemeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ThemeController.luau",
+      "sourceHash": "370b25e4bf4bf570e06bc78deaf4843befb8f96bd4fcc161dc39bc18d8664699",
+      "updatedAt": 1793931495854
+    },
+    {
+      "debugId": "1_15439",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.TimeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/TimeController.luau",
+      "sourceHash": "ae3121ac9e0750e76e12a7a2f98d891df36a8e47eedc987202a36bdd089b33e1",
+      "updatedAt": 1793931495851
+    },
+    {
+      "debugId": "1_15440",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ToastController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ToastController.luau",
+      "sourceHash": "9f463decb0f3e9d57962831ae073379827792d2050f8725c97cbaf095b94e961",
+      "updatedAt": 1793931495852
+    },
+    {
+      "debugId": "1_15463",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.TouchController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/TouchController.luau",
+      "sourceHash": "21c576b5ccb98056a82259643dc7527e1e5a67ab1948412120c3a87657e6202b",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15459",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.TravelController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/TravelController.luau",
+      "sourceHash": "542c6d287a26af1d954b9669cf8624e723786441db1616725e364ec43429c2c3",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15490",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.TutorialArrow",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/TutorialArrow.luau",
+      "sourceHash": "9343ab98f5a3e8fc298a409bd84dd377dc9788450cc37b813bd9b0589393d0f8",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15461",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.TutorialController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/TutorialController.luau",
+      "sourceHash": "f06cb62cc431eb6854cbdc78be707e601ec76507bc2fc2c71a8f5aaed870372b",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15493",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.VendingController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/VendingController.luau",
+      "sourceHash": "28757ce9f414993b7ebb9e28869ad455b3047cc3eb24dd4d0d6011b82ac644a0",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15500",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.VersionController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/VersionController.luau",
+      "sourceHash": "55d780646c8fbc5aaeea02a724df4c4d07bec254073330962a92df1f78c73ea7",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15476",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.ViewmodelController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/ViewmodelController.luau",
+      "sourceHash": "329ffc2dea131c9f4cfb031b6508b7fd2d91eb137b1e16d24bcfdbca9d8f820d",
+      "updatedAt": 1793931495854
+    },
+    {
+      "debugId": "1_15492",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.WaterZoneController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/WaterZoneController.luau",
+      "sourceHash": "0562079c437c2a7373ca0cc1f5f5d31ccc1c213ce7babe457a185a6d5e039a3f",
+      "updatedAt": 1793931495855
+    },
+    {
+      "debugId": "1_15466",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.WeatherFxController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/WeatherFxController.luau",
+      "sourceHash": "2a4e399bd16a890a028bfe504d2c38bbfdddcd71d070fa37fa37b46d9be4a324",
+      "updatedAt": 1793931495853
+    },
+    {
+      "debugId": "1_15499",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.WelcomeController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/WelcomeController.luau",
+      "sourceHash": "2df793379cc58bfede910cc07e0afef0f8721b1b6e07b8431f8647503a89935c",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15509",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Controllers.WorldLabelsController",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Controllers/WorldLabelsController.luau",
+      "sourceHash": "9e27465df83366a84f679f4a11d07100a14d297d92ef80615deec5d159bb8d05",
+      "updatedAt": 1793931495881
+    },
+    {
+      "debugId": "1_15425",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.CopyPicker",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/CopyPicker.luau",
+      "sourceHash": "6b6ef951aa4a8e13fb254e6c447cd816be5e0e2f423188666e35125f39ebdcfb",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_15424",
+      "path": "StarterPlayer.StarterPlayerScripts.Client.Ui",
+      "file": "StarterPlayer/StarterPlayerScripts/Client/Ui.luau",
+      "sourceHash": "5b098c2413b6389e3be866671e0cbff6e3f5e10f2ed14fc1845f42ec9f6cfe64",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_20921",
+      "path": "StarterPlayer.StarterPlayerScripts.RbxCharacterSounds",
+      "file": "StarterPlayer/StarterPlayerScripts/RbxCharacterSounds/init.luau",
+      "sourceHash": "ecdd150afffba230e38bdcbc157c17cd8a4bd1d495dc7e84c9d5e634eab70588",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_20923",
+      "path": "StarterPlayer.StarterPlayerScripts.RbxCharacterSounds.AtomicBinding",
+      "file": "StarterPlayer/StarterPlayerScripts/RbxCharacterSounds/AtomicBinding.luau",
+      "sourceHash": "841770b9041bf47f39b74742e8f8c8df6069bf76b58fed69a2010cc8d9df3767",
+      "updatedAt": 1793931495882
+    },
+    {
+      "debugId": "1_292584",
+      "path": "Workspace.AySurDer.Animate",
+      "file": "Workspace/AySurDer/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932233248
+    },
+    {
+      "debugId": "1_250665",
+      "path": "Workspace.dayawon7.Animate",
+      "file": "Workspace/dayawon7/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793931531682
+    },
+    {
+      "debugId": "1_165884",
+      "path": "Workspace.DjCreatorEdition.Animate",
+      "file": "Workspace/DjCreatorEdition/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793931495924
+    },
+    {
+      "debugId": "1_289965",
+      "path": "Workspace.DjCreatorEdition.Animate",
+      "file": "Workspace/DjCreatorEdition/Animate-1_289965.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932175388
+    },
+    {
+      "debugId": "1_12914",
+      "path": "Workspace.Hub.NPC.BlockDealer.Animate",
+      "file": "Workspace/Hub/NPC/BlockDealer/Animate.luau",
+      "sourceHash": "b5aacdf619305fd88c53b8860538887c6a126850fbabe87060d9fb62fbe0a9c0",
+      "updatedAt": 1793931494731
+    },
+    {
+      "debugId": "1_12918",
+      "path": "Workspace.Hub.NPC.Chef.Animate",
+      "file": "Workspace/Hub/NPC/Chef/Animate.luau",
+      "sourceHash": "c3b26aa5b13c3b1b3a78e4045726b172402709cf985949f59035f984f40f2ebf",
+      "updatedAt": 1793931784222
+    },
+    {
+      "debugId": "1_12920",
+      "path": "Workspace.Hub.NPC.Collector.Animate",
+      "file": "Workspace/Hub/NPC/Collector/Animate.luau",
+      "sourceHash": "beb1ed2fb8cab73a5eb402f744aba331957defa64ee617f7df64931c0677fac1",
+      "updatedAt": 1793931784221
+    },
+    {
+      "debugId": "1_12916",
+      "path": "Workspace.Hub.NPC.Florist.Animate",
+      "file": "Workspace/Hub/NPC/Florist/Animate.luau",
+      "sourceHash": "56c6e264c5f5dec68b86eb40e7b45986b36bb117546eddb572aa924886fbac07",
+      "updatedAt": 1793931784221
+    },
+    {
+      "debugId": "1_12919",
+      "path": "Workspace.Hub.NPC.Landman.Animate",
+      "file": "Workspace/Hub/NPC/Landman/Animate.luau",
+      "sourceHash": "006597808defdee8409bdcbe9d3ef6a620c012d1c3b28f3b53c73dee4e6e2e2e",
+      "updatedAt": 1793931784222
+    },
+    {
+      "debugId": "1_12913",
+      "path": "Workspace.Hub.NPC.Machinist.Animate",
+      "file": "Workspace/Hub/NPC/Machinist/Animate.luau",
+      "sourceHash": "b5aacdf619305fd88c53b8860538887c6a126850fbabe87060d9fb62fbe0a9c0",
+      "updatedAt": 1793931494790
+    },
+    {
+      "debugId": "1_12917",
+      "path": "Workspace.Hub.NPC.Merchant.Animate",
+      "file": "Workspace/Hub/NPC/Merchant/Animate.luau",
+      "sourceHash": "7dfa3a1358f0bf43d43adc5b3359159866269b85992d814edd434193b15d64ee",
+      "updatedAt": 1793931784221
+    },
+    {
+      "debugId": "1_12915",
+      "path": "Workspace.Hub.NPC.SeedDealer.Animate",
+      "file": "Workspace/Hub/NPC/SeedDealer/Animate.luau",
+      "sourceHash": "79e52499ecebc25834f858089c3f398a70a8fec1030465a77f4dc35af0870cb5",
+      "updatedAt": 1793931784222
+    },
+    {
+      "debugId": "1_324211",
+      "path": "Workspace.jake8199051.Animate",
+      "file": "Workspace/jake8199051/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932460638
+    },
+    {
+      "debugId": "1_255742",
+      "path": "Workspace.legendaryHat1227top.Animate",
+      "file": "Workspace/legendaryHat1227top/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793931568406
+    },
+    {
+      "debugId": "1_353447",
+      "path": "Workspace.lolanapanot.Animate",
+      "file": "Workspace/lolanapanot/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932555749
+    },
+    {
+      "debugId": "1_386861",
+      "path": "Workspace.peltokan.Animate",
+      "file": "Workspace/peltokan/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932916029
+    },
+    {
+      "debugId": "1_265017",
+      "path": "Workspace.SimplyjKai2.Animate",
+      "file": "Workspace/SimplyjKai2/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793931733401
+    },
+    {
+      "debugId": "1_362068",
+      "path": "Workspace.sjxidnk.Animate",
+      "file": "Workspace/sjxidnk/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932607082
+    },
+    {
+      "debugId": "1_246029",
+      "path": "Workspace.TheKiller150306Alt.Animate",
+      "file": "Workspace/TheKiller150306Alt/Animate.luau",
+      "sourceHash": "9c760f1ce31c778a5e37bc63353f127eb87e63935ab42c95d0559b3d7db66cb1",
+      "updatedAt": 1793931495923
+    },
+    {
+      "debugId": "1_372038",
+      "path": "Workspace.TheKiller150306Alt.Animate",
+      "file": "Workspace/TheKiller150306Alt/Animate-1_372038.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932692623
+    },
+    {
+      "debugId": "1_377254",
+      "path": "Workspace.TheKiller150306Alt.Animate",
+      "file": "Workspace/TheKiller150306Alt/Animate-1_377254.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932770595
+    },
+    {
+      "debugId": "1_382428",
+      "path": "Workspace.TheKiller150306Alt.Animate",
+      "file": "Workspace/TheKiller150306Alt/Animate-1_382428.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932845572
+    },
+    {
+      "debugId": "1_341587",
+      "path": "Workspace.XxISHARxX.Animate",
+      "file": "Workspace/XxISHARxX/Animate.luau",
+      "sourceHash": "c3d4c2df3a97202cc3cfd3b6758261503f20e460cb88473c3ef42186de2a894a",
+      "updatedAt": 1793932474733
+    }
+  ]
+}
